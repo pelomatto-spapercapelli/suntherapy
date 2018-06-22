@@ -1,0 +1,28 @@
+# Site settings
+title: "PeloMatto SpaPerCapelli"
+email: pelomattoacconciature@gmail.com
+description: Parrucchiere · Centro benessere · Salone per la cura delle unghie.
+baseurl: "/suntherapy"
+url: ""
+
+# Homepage tiles
+tiles-source: posts # accepts "posts" or "pages"
+tiles-count: 4
+
+# Misc settings
+featured-image-source:
+
+# Social settings
+500px_url:
+facebook_url: https://it-it.facebook.com/PELO-MATTO-Parrucchieri-473767986005188/
+github_url:
+gitlab_url:
+googleplus_url:
+instagram_url: https://www.instagram.com/pelomatto_spapercapelli/
+linkedin_url:
+pinterest_url:
+slack_url:
+twitter_url:
+
+# Build settings
+markdown: kramdown
